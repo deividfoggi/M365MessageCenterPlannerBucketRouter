@@ -1,0 +1,2 @@
+# M365MessageCenterPlannetBucketRouter
+This automation will route message center synced tasks in buckets with the same name (case-sensitive) as the name of the bucket. You need to create buckets with the same name of each product category. The automation will also input categories and tags from message center item into the planner task as tags. Finally, if you want to, you can input e-mails for each user responsible for a given product then the user will be assigned to the task in planner.
