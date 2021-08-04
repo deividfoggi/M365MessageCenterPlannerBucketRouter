@@ -47,5 +47,8 @@ https://docs.microsoft.com/en-us/office365/planner/track-message-center-tasks-pl
 
  **Test**
  
- In order to confirm that everything is working as expected, you can deleted all tasks in the planner and configure the planner sync once again selecting the same plan you already configured in the flow. For each task, you flow run you be triggered. As a result, each task should be placed in the bucket of the respective product, including all categories and tags as task tags and also assigning the task for the users you've configured in step E.
+ In order to confirm that everything is working as expected, you can deleted all tasks in the planner and configure the planner sync once again selecting the same plan you already configured in the flow. For each task, you flow run you be triggered. As a result, each task should be placed in the bucket of the respective product, including all categories and tags as task tags and also assigning the task for the users you've configured in step E. If you didn't create a bucket with the same name of the product name (case-sensitive), the task you be placed in the "Not Defined" bucket.
+ 
+ ![image](https://user-images.githubusercontent.com/39340082/128249915-88345746-06a4-437d-b7dd-c9a3fb416a08.png)
+
  
